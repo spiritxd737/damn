@@ -1,1 +1,1 @@
-# damn
+print("hello world")
